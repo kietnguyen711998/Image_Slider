@@ -1,31 +1,25 @@
-# Weather app
+# برنامه هواشناسی
 
-[![Build Status](https://travis-ci.org/bkhezry/weather.svg?branch=master)](https://travis-ci.org/bkhezry/weather)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Weather%20App-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7678)
+<p align="center"><img src="assets/screenshot-1-fa.png" /></p>
 
-<p align="center"><img src="assets/screenshot-1.png" /></p>
-
-**Requirements**
-- Android Studio 3.5.1
+**نیازمندی‌ها**
+- Android Studio 3.5 beta 2
 - JDK 8
 - Android SDK 28
-- Supports API Level +21
-- Material Components 1.1.0-alpha04
+- Supports API Level +17
+- Material Components 1.1.0-alpha05
 
-**Highlights**
+**ویژگی‌ها**
 - Use [OpenWeatherMap] API
 - Use Material Design 2
-- Dark Mode
 - Support two language. English & Persian
 - Use locale Database
 
-**Demo** application is available in [Release]
+**عکس برنامه**
 
-**Screenshot**
+<p align="center"><img src="assets/screenshot-2-fa.png" /></p>
 
-<p align="center"><img src="assets/screenshot-2.png" /></p>
-
-**Libraries & Dependencies**
+**کتابخانه‌ها**
 - [Support libraries]: appcompat / recyclerview / constraintlayout
 - [Material Design 2]: MaterialCardView / MaterialButton / Bottom App Bars / ExtendedFloatingActionButton
 - [FastAdapter]: The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction
@@ -78,4 +72,3 @@
 [MPAndroidChart]: https://github.com/PhilJay/MPAndroidChart
 [Firebase Core]: https://firebase.google.com/
 [ButterKnife]: https://github.com/JakeWharton/butterknife
-[Release]: https://github.com/bkhezry/weather/releases
